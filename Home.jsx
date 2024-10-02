@@ -3,12 +3,12 @@ import { Routes, Route } from 'react-router-dom';
 import { Box, Heading, HStack } from "@chakra-ui/react";
 import Lottie from "lottie-react";
 import animationData from "../assets/homepage.json";
-import Navbar from "../components/Navbar";
+// import Navbar from "../components/Navbar";
 
 function Home() {
   return (
     <>
-    <Navbar/>
+{/*     <Navbar/> */}
     <Box p={4}>
       <HStack spacing={5} justifyContent="center">
       <Heading>Welcome to my local LLM model</Heading>
