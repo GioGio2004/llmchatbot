@@ -1,0 +1,7 @@
+for backend cretae flask application and run it 
+
+for first step just cretae an endpoint (so called route) and function underneath it to just return some text for example "hello from flask" 
+next step in that function create variable called "data" and asign it some dictionaly with two key walues than use flasks jsonfy() function to convert that text into json file 
+
+create react frontend and fetch that api to display "data"
+
