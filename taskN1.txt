@@ -6,13 +6,27 @@ in terminal
 4. Select a variant --> javascript
 5. navigate into <frontend> folder --> cd frontend 
 6. run the commend --> npm install 
-7. run react application --> npm run dev
+7. after seccesfully installing react install other dependances ChakraUi and lottie-react :
+   1. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+   2. npm install lottie-react
+8. run react application --> npm run dev
 
-after seccesfully creating react application clean it for a little  
+after seccesfully creating react application clean it a little and get it ready to start development   
+
 1. navigate in to src folder 
 2. delete :App.css, index.css 
 3. delete everything(all the code) in main.jsx and App.jsx
 4. in assets folder delete everything
+5. on github in llmchatbots repo find main.jsx file and copy everything into your own main.jsx file 
+6. copy App.jsx code in to yours as well 
+7. into <src> folder create components folder 
+8. create Home.jsx file in componets directory and copy the code from github 
+9. download homepage.json (thats an lottie animation )drag and drop lottie animation in to assets folder
 
-after cleaning up on github in llmchatbots repo find main.jsx file and copy everything into your own main.jsx file 
-than find 
+after seccesfully installing all of this modules and dependances you should be good to go reset your browser and check the results if you dont see any errors its working and save every change in vs code to see the results with Ctrl+S command.
+
+
+that was nice worm up now for the task:
+your job is to create this home page as cool flashy and responsive as posible use Chakra Ui: "https://v2.chakra-ui.com/" for creating components and style them as you considere the best use lottie :"https://lottiefiles.com/featured-free-animations" animations as well. create couple section and if you get your head around on image slider it'll be so cool and don't forget footer section as well dont worry about navbar its already created :) 
+
+have a great time with this task besto frendo :)
