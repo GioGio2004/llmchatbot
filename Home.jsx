@@ -30,8 +30,8 @@ function Home() {
 
 export default Home;
 
-// create vite react frontend with this command :  npm create vite@latest --> cd frontend --> npm install 
+
 // after seccesfully installing react install other dependances ChakraUi and lottie-react : npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion , npm install lottie-react
 // 
-// drag and drop lottie animation in to assets folder
+// download homepage.json (thats an lottie animation)drag and drop lottie animation in to assets folder
 // after seccesfully installing all of this modules and dependances you should me good to go  
