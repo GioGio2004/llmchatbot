@@ -1,0 +1,18 @@
+create a react application steps:
+in terminal
+1. run the command --> npm create vite@latest
+2. name the project --> frontend
+3. Select a framework --> React
+4. Select a variant --> javascript
+5. navigate into <frontend> folder --> cd frontend 
+6. run the commend --> npm install 
+7. run react application --> npm run dev
+
+after seccesfully creating react application clean it for a little  
+1. navigate in to src folder 
+2. delete :App.css, index.css 
+3. delete everything(all the code) in main.jsx and App.jsx
+4. in assets folder delete everything
+
+after cleaning up on github in llmchatbots repo find main.jsx file and copy everything into your own main.jsx file 
+than find 
